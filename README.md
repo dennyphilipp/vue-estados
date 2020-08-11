@@ -1,4 +1,5 @@
-Projeto Vue para o fronted da Api de estados
+## Projeto Vue para o fronted da Api de estados
+- Utilizado Vue, bootstrap, bootstrap vue e axios;
 ## Project setup
 ```
 npm install
